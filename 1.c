@@ -11,6 +11,7 @@
 
 int main(int argc, char** argv)
 {
+	printf("这是远程库添加的代码");
 	printf("hello...\n");
 	return 0;
 }
